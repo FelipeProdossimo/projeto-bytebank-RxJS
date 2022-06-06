@@ -1,2 +1,2 @@
-# projeto-bytebank-RxJS
- Curso final de Angular - Alura
+# alura_angular_rxjs_1
+Curso
